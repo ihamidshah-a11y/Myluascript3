@@ -372,6 +372,6 @@ stopButton.MouseButton1Click:Connect(function()
 	status.TextColor3 = Color3.fromRGB(255, 100, 100)
 end)
 
-print("âœ… SPAMMER BY HAMID PAPA😎 Messages loaded successfully!"))
+print("âœ… SPAMMER BY HAMID PAPA😎 Messages loaded successfully!")
 
 print("âœ… SPN Spammer-By PRI With Shakran,AJ and Aradhya Messages loaded successfully!")
